@@ -1,0 +1,488 @@
+body {
+    min-width: 1270px;
+    margin: 0;
+    font-family: Inter, sans-serif;
+    background-color: whitesmoke;
+}
+
+.p1 img {
+    margin-left: 10%;
+    width: 15%;
+    position: relative;
+}
+
+.p1 {
+    /*margin: 2em;*/
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+}
+
+.p1 .a1 {
+    min-width: 700px;
+}
+
+.id1 {
+
+    text-align: center;
+    position: relative;
+    font-size: 1em;
+    justify-content: space-between;
+    display: flex;
+    flex: 1;
+}
+
+.id1 a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    padding: 0;
+}
+
+.lo1 {
+
+    padding: 5;
+    flex: 2;
+}
+
+.lo2 {
+    flex: 2;
+}
+
+.lo3 {
+    flex: 2;
+}
+
+.lo4 {
+    flex: 2;
+}
+
+.lo5 {
+    flex: 2;
+}
+
+button {
+    margin-right: 10%;
+    width: 100px;
+    height: 40px;
+    background-color: deepskyblue;
+    color: aliceblue;
+    border: 1px solid deepskyblue;
+    border-radius: 50px;
+}
+
+
+ul {
+    list-style: none;
+}
+
+.p12 {
+    margin-top: 5px;
+}
+
+.p12 img {
+
+    width: 20px;
+}
+
+.mobile img {
+    position: absolute;
+    width: 480px;
+    margin: 7% 65%;
+}
+
+.a1 {
+    padding: 0.50em;
+    text-align: center;
+    font-size: larger;
+    font-weight: 600;
+    background: linear-gradient(rgb(220, 218, 218), whitesmoke)
+}
+
+.a1 a {
+    text-decoration: none;
+    color: black;
+}
+
+.u1 img {
+    width: 80px;
+    margin-top: 7%;
+    margin-left: 10%;
+}
+
+.main {
+    margin-left: 10%;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 60px;
+}
+
+p {
+    padding: 0;
+    margin-left: 10%;
+    font-size: 1.5em;
+}
+
+.Download button {
+    margin-left: 10%;
+    background-color: black;
+    width: 250px;
+
+}
+
+div .icons {
+    margin-top: 8%;
+
+    background-color: #00baf2;
+    color: aliceblue;
+
+}
+
+.ic1 h1 {
+    padding-top: 4%;
+    margin-left: 10%;
+    font-size: 2.5em;
+}
+
+.ic2 {
+    padding: 2% 20% 5% 3%;
+    ;
+    margin-left: 10%;
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.25em;
+
+}
+
+.book {
+    margin: 0%;
+    background: #0f4a8a;
+    color: aliceblue;
+}
+
+.book h1 {
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+    padding-top: 4%;
+    padding-bottom: 4%;
+    margin-left: 10%;
+    font-size: 2.5em;
+}
+
+.BBM {
+    padding: 0% 20% 5% 3%;
+    margin-left: 10%;
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.25em;
+}
+
+.PIN1 {
+    /*  width: 1170px;
+    padding: 80px 50px 80px 115px;*/
+    width: 1250px;
+    height: 500px;
+    margin-left: 10%;
+    /*padding-right: 10%;*/
+    border: 1px solid rgb(248, 250, 252);
+    background-color: rgb(248, 250, 252);
+    border-radius: 1%;
+    box-sizing: initial;
+}
+
+.wall1 img {
+    position: absolute;
+    width: 450px;
+
+    margin-top: 3%;
+    margin-left: 50%;
+
+
+}
+
+.PIN h1 {
+    margin-left: 10%;
+    font-size: 3em;
+}
+
+
+.pay1 p {
+    margin-left: 8%;
+    margin-top: 6%;
+    float: left;
+    width: 62px;
+    height: 62px;
+    display: flex;
+}
+
+.PIN2 h1 {
+    padding-left: 0;
+    padding-top: 12%;
+    margin-left: 8%;
+    font-size: 2.5em;
+}
+
+.PIN2 p {
+    padding-left: 5%;
+    margin-left: 3%;
+    font-size: 1em;
+    line-height: 150%;
+
+}
+
+.Download1 button {
+    margin-left: 8%;
+    margin-top: 3%;
+    background-color: black;
+    width: 250px;
+    margin-bottom: 1%;
+}
+
+/*.UPI{
+    border: 1px;
+    width: 50%;
+}*/
+.UPI {
+    width: 1250px;
+    height: 520px;
+    margin-left: 10%;
+    /*padding-right: 10%;*/
+    border: 1px solid rgb(248, 250, 252);
+    background-color: rgb(248, 250, 252);
+    border-radius: 1%;
+}
+
+.M1 p {
+    margin-left: 8%;
+    margin-top: 6%;
+    float: left;
+    width: 62x;
+    height: 62px;
+    display: flex;
+}
+
+.uu1 img {
+    position: absolute;
+    width: 450px;
+
+    margin-top: 3%;
+    margin-left: 45%;
+
+}
+
+.UPI1 h1 {
+    margin-top: 15%;
+    margin-left: 8%
+}
+
+.UIP1 p {
+
+    font-size: 1em;
+    line-height: 150%;
+
+}
+
+/*.UPI1 button{
+    margin-bottom: 15px
+}*/
+.Download23 button {
+    margin-left: 8%;
+    margin-top: 1%;
+    background-color: black;
+    width: 250px;
+
+}
+
+.postimg img {
+    margin-left: 8%;
+    margin-top: 6%;
+    /*float: left;*/
+    width: 15%;
+    height: 10%;
+    /*display: flex;*/
+}
+
+.post {
+    margin-top: 4%;
+    width: 1250px;
+    height: 590px;
+    margin-left: 10%;
+   
+    border: 1px solid rgb(248, 250, 252);
+    background-color: rgb(248, 250, 252);
+    border-radius: 1%;
+
+}
+
+.img12 img {
+    position: absolute;
+    width: 450px;
+
+    margin-top: 3%;
+    margin-left: 45%;
+}
+
+.post h1 {
+    margin-left: 8%;
+    font-size: 2em;
+    margin-top: 3%;
+}
+
+.post p {
+    margin-left: 8%;
+    font-size: 1.15em;
+    margin-top: 3%;
+    line-height: 26px;
+}
+
+.post2 {
+    margin-left: 8%;
+    margin-top: 4%;
+    background-color: rgb(22, 15, 87);
+    width: 200px;
+    height: 45px;
+    border-radius: 25px;
+    text-align: center;
+
+}
+
+.post2 a {
+
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 2em;
+}
+
+.HHH {
+    margin-top: 4%;
+    display: flex;
+
+}
+
+.CB {
+    width: 40%;
+    height: 50%;
+    border: 1px solid rgb(248, 250, 252);
+    background-color: rgb(248, 250, 252);
+    border-radius: 4%;
+    margin-left: 10%;
+}
+
+.SBC {
+    width: 40%;
+    height: 50%;
+    border: 1px solid rgb(248, 250, 252);
+    background-color: rgb(248, 250, 252);
+    border-radius: 4%;
+    margin-left: 2.1%;
+}
+
+.CB1 img {
+    margin-left: 8%;
+    margin-top: 5%;
+    padding-left: 8%;
+    width: 38%;
+}
+
+.CB2 h1 {
+    margin-left: 15%;
+    font-size: 2.5em;
+    margin-right: 5%;
+
+}
+
+.CB2 p {
+    margin-left: 15%;
+    font-size: 1.25em;
+    line-height: 27px;
+}
+
+.CB3 img {
+    width: 90%;
+    margin-left: 10%;
+     margin-top:5%;
+     
+}
+.SB15 img{
+    padding-left: 7%;
+    margin-left: 8%;
+    margin-top: 16%;
+    width: 38%;
+}
+.SB16 h1{
+    padding-right: 8%;
+    margin-left: 15%;
+    font-size: 2.5em;
+    margin-right: 15%;
+}
+.SB16 p{
+    margin-left: 15%;
+    font-size: 1.25em;
+    line-height: 27px;
+}
+.SB17 img{
+    width: 90%;
+    margin-left: 10%;
+     margin-top:6%;
+}
+.FNL
+{
+    margin-top: 4%;
+    border: 1px solid rgb(248, 250, 252);
+    background-color: rgb(248, 250, 252);
+    border-radius: 4%; 
+    display: flex;
+}
+.FF1 h1{
+    width:800px;
+    height: 110px;
+    margin-top: 15%;
+    font-size: 3.25em;
+    margin-left: 22%;
+
+}
+.FN1
+{
+    margin-bottom: 10%;
+}
+.FF2 img{
+    width: 38%;
+    margin-left: 22%;
+    
+}
+.FF3 h1{
+font-size: 2.6em;
+margin-left: 22%;
+margin-right: 15%;
+margin-top: 10%;
+}
+.FF3 p{
+    margin-left: 22%;
+    font-size: 1.25em;
+    font-weight: 500;
+}
+.BAK1 img{
+    margin-top: 45%;
+    width: 450px;
+    margin-left:30%;
+}
+.FF4{
+    margin-left: 21%;
+    margin-top: 4%;
+    background-color: rgb(22, 15, 87);
+    width: 200px;
+    height: 45px;
+    border-radius: 25px;
+    text-align: center;
+
+}
+.FF4 a{
+    padding-left:8px;
+   
+    text-align: center;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 1.75em;
+}

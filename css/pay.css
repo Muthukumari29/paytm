@@ -180,12 +180,11 @@ div .icons {
 }
 
 .PIN1 {
-    /*  width: 1170px;
-    padding: 80px 50px 80px 115px;*/
+    
     width: 1250px;
     height: 500px;
     margin-left: 10%;
-    /*padding-right: 10%;*/
+    
     border: 1px solid rgb(248, 250, 252);
     background-color: rgb(248, 250, 252);
     border-radius: 1%;
@@ -240,15 +239,12 @@ div .icons {
     margin-bottom: 1%;
 }
 
-/*.UPI{
-    border: 1px;
-    width: 50%;
-}*/
+/
 .UPI {
     width: 1250px;
     height: 520px;
     margin-left: 10%;
-    /*padding-right: 10%;*/
+    
     border: 1px solid rgb(248, 250, 252);
     background-color: rgb(248, 250, 252);
     border-radius: 1%;
@@ -284,9 +280,7 @@ div .icons {
 
 }
 
-/*.UPI1 button{
-    margin-bottom: 15px
-}*/
+
 .Download23 button {
     margin-left: 8%;
     margin-top: 1%;
@@ -298,10 +292,8 @@ div .icons {
 .postimg img {
     margin-left: 8%;
     margin-top: 6%;
-    /*float: left;*/
-    width: 15%;
+       width: 15%;
     height: 10%;
-    /*display: flex;*/
 }
 
 .post {
@@ -337,7 +329,7 @@ div .icons {
     line-height: 26px;
 }
 
-.post2 {
+.post2 button{
     margin-left: 8%;
     margin-top: 4%;
     background-color: rgb(22, 15, 87);
@@ -468,11 +460,11 @@ margin-top: 10%;
     width: 450px;
     margin-left:30%;
 }
-.FF4{
+.FF4 button{
     margin-left: 21%;
-    margin-top: 4%;
+    margin-top: 5%;
     background-color: rgb(22, 15, 87);
-    width: 200px;
+    width: 170px;
     height: 45px;
     border-radius: 25px;
     text-align: center;
@@ -480,9 +472,199 @@ margin-top: 10%;
 }
 .FF4 a{
     padding-left:8px;
-   
-    text-align: center;
+       text-align: center;
     text-decoration: none;
     color: aliceblue;
-    font-size: 1.75em;
+    font-size: 1.5em;
+}
+.PYI{
+    display: flex;
+}
+.PYI1 img{
+    margin-top: 18%;
+    margin-left: 37%;
+    width: 480px;
+}
+.STK1{
+    margin-left: 15%;
+
+}
+
+.STK1 img{
+    margin-top: 9%;
+    width: 20%;
+margin-left: 11%;
+  
+}
+.STK2 p{
+    font-size: 1.3em;
+    margin-left: 12%;
+}
+
+.STK1 h1{
+    width: 50%;
+    font-size: 3em;
+    margin-left: 12%;
+
+}
+.ST{
+    background-image: url('../image/shadow.avif');
+    background-size: cover;
+}
+
+.LN1 button{
+    margin-left: 12%;
+    margin-top: 5%;
+    background-color: rgb(22, 15, 87);
+    width: 170px;
+    height: 45px;
+    border-radius: 25px;
+    text-align: center;
+    margin-bottom: 10%;
+
+}
+.LN1  a{
+    padding: 15PX 25PX;
+       text-align: center;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 1.25em;
+}
+.BROK{
+    
+    border: 1px solid rgb(248, 250, 252);
+    background-color: rgb(248, 250, 252);
+    border-radius: 4%; 
+    display: flex;
+}
+.BRK1 img{
+width: 25%;
+margin-left: 28%;
+margin-top: 15%;
+}
+.BRK2 h1{
+    margin-top: 7%;
+    margin-left: 28%;
+    font-size: 2.5em;
+}
+.BRK2 p{
+    margin-left: 28%;
+    font-size: 1.3em;;
+}
+.BRK3 button {
+    margin-left: 27%;
+    margin-top: 1%;
+    background-color: rgb(22, 15, 87);
+    width: 170px;
+    height: 45px;
+    border-radius: 25px;
+    text-align: center;
+    margin-bottom: 18%;   
+}
+.BRK3 a{
+    padding: 15PX 25PX;
+    text-align: center;
+ text-decoration: none;
+ color: aliceblue;
+ font-size: 1.25em;   
+}
+.BK4 img{
+    width: 480px;
+    margin-left: 20%;
+}
+.VF{
+    display: flex;
+}
+
+.VV3 img{
+    margin-top: 30%;
+    width:37%;
+    
+}
+.VV4 h1{
+    width: 400px;
+    font-size: 2.25em;
+    margin-left: 3%;
+}
+.VV4 p{
+    width: 500px;
+    line-height: 170%;
+    font-size: 1em;
+    margin-left: 3%;
+}
+
+.VV1 img{
+    width:50% ;
+   margin-left: 22%;
+   margin-top: 11%;
+   margin-bottom: 13%;
+}
+.VV5 button{
+    margin-left: 3%;
+    margin-top: 3%;
+    background-color: rgb(22, 15, 87);
+    width: 170px;
+    height: 45px;
+    border-radius: 25px;
+    text-align: center;
+    margin-bottom: 18%;  
+    
+}
+.VV5 a{
+    padding: 15PX 25PX;
+    text-align: center;
+ text-decoration: none;
+ color: aliceblue;
+ font-size: 1.25em;      
+}
+.BUN {
+    background-color:rgb(248, 250, 252);
+   padding-top: 5%;
+    height: 633px;
+}
+  
+.BUN h1{
+    font-size: 3em;
+    margin-left: 9%;
+    margin-top: 1%;
+}
+.ACC1{
+    margin-left: 9%;
+    background-color: whitesmoke;
+    margin-right: 9%;
+
+    display: flex;
+}
+.AB1 h1{
+    font-size: 2.2em;
+    margin-top: 35%;
+    margin-left: 25%;
+}
+.AB1 p{
+    width: 100%;
+    font-size:1em;
+    margin-left: 25%;
+}
+.ACC2 img{
+    width: 430px;
+    margin-left: 57%;
+    margin-top: 17%;
+}
+.AB2 button{
+    margin-left: 25%;
+    margin-top: 3%;
+    background-color: rgb(22, 15, 87);
+    width: 170px;
+    height: 45px;
+    border-radius: 25px;
+    text-align: center;
+    margin-bottom: 18%;  
+    
+}
+.AB2 a{
+    padding: 15PX 25PX;
+    text-align: center;
+ text-decoration: none;
+ color: aliceblue;
+ font-size: 1.25em;
 }

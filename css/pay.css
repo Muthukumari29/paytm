@@ -719,3 +719,114 @@ margin-top: 15%;
      color: aliceblue;
      font-size: 1.25em;
     }
+    .TOOL1{
+        margin: 0px;
+        padding: 0%;
+        background-color: white;
+    }
+.TOOL1 h1 {
+    margin: 0%;
+    background-color: white;
+    font-size: 3em;
+    margin-left: 10%;
+    /*width: 250%;*/
+}
+/*.BTYS{
+
+    display:flex ;
+    flex-direction: column;}*/
+
+.BTY1 img{
+    margin-top: 40%;
+    width:65%;
+    margin-left: 41%;
+}
+.BTY2 h1{
+    margin-top: 20%;
+    margin-left: 41%;
+    
+    font-size: 1.5em;
+}
+.BTY2 p{
+    width: 80%;
+    margin-top: 10%;
+    margin-left: 40%;
+    font-size: 1.25em;
+}
+.BTY2 a{
+    text-decoration: none;
+    margin-left: 40%;
+    color: black;
+}
+.demo img{
+    margin-top: 30%;
+    width:65%;
+    margin-left: 31%;
+}
+.dem1 h1{
+    margin-top: 26%;
+    margin-left: 52%;
+    width: 210px;
+
+}
+.dem2 p{
+    margin-top: 10%;
+    margin-left:29% ;
+    width:57%;
+    font-size: 1.25em;
+}
+.dem2 a{
+    text-decoration: none;
+    margin-left: 29%;
+    color: black;
+}
+.UPS1 img{
+    margin-top: 29%;
+    width:57%;
+    margin-left: 11%;
+}
+.UPS2 h1{
+    margin-left:13%;
+    width: 30%;
+    margin-top: 10%;
+  
+}
+.UPS2 p{
+    margin-top: 10%;
+    font-size: 1.25em;
+width: 50%;
+margin-left: 12%;
+}
+.UPS2 a{
+    text-decoration: none;
+    margin-left: 12%;
+    color: black;
+}
+.KHA img{  margin-top: 30%;
+    width:68%;
+   padding-right: 90px;
+}
+.kha1 h1{
+    margin-top: 8%;
+    margin-left: 0%;
+    width: 10%;
+}
+.kha1 p{
+    width: 55%;
+    font-size: 1.25em;
+    margin-left: 1%;
+
+}
+.kha1 a{
+
+    margin-top: 15%;
+    text-decoration: none;
+    margin-left: 1%;
+    color: black;
+}
+.BTYS{
+    margin:0px;
+    display: flex;
+    background-color:white;
+}
+
